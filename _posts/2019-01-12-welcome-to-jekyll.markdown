@@ -1,4 +1,5 @@
 ---
+layout: page
 title:  "Perfection is Iteration"
 date:   2019-01-14
 description: "We are developers. We iterate."
